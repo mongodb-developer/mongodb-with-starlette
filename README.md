@@ -1,4 +1,4 @@
-# MongoDB with FastAPI
+# MongoDB with Starlette
 
 This is a small sample project demonstrating how to build an API with [MongoDB](https://developer.mongodb.com/) and [Starlette](https://www.starlette.io/).
 It was written to accompany a [blog post](https://developer.mongodb.com/quickstart/python-quickstart-starlette/) - you should go read it!
